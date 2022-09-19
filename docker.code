@@ -1,0 +1,9 @@
+#!/bin/bash
+
+##testing docker and jenkins##
+
+echo "hello world"
+
+sleep 1
+
+echo "goodbye world"
